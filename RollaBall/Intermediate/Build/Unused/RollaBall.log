@@ -1,0 +1,17 @@
+﻿  Parsing headers for RollaBallEditor
+    Running UnrealHeaderTool "C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\RollaBall.uproject" "C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\RollaBallEditor\Development\RollaBallEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Kasutaja\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for RollaBallEditor in 16.0101295 seconds
+  Building RollaBallEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] RollaBall.init.gen.cpp
+    [2/6] BasePlayer.cpp
+    [3/6] BasePlayer.gen.cpp
+    [4/6] UE4Editor-RollaBall-0006.lib
+       Creating library C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0006.lib and object C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0006.exp
+    [5/6] UE4Editor-RollaBall-0006.dll
+       Creating library C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0006.suppressed.lib and object C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0006.suppressed.exp
+    [6/6] RollaBallEditor.target
+  Total time in Parallel executor: 8.73 seconds
+  Total execution time: 25.94 seconds
